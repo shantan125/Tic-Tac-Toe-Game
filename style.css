@@ -16,7 +16,7 @@ body{
         color: #fdf0d5;
         padding: 1rem;
         margin: 1rem;
-        font-size: 18;
+        font-size: large;
         transition: 0.2s;
 }
 #new-btn:hover{
