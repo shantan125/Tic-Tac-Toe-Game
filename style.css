@@ -68,6 +68,7 @@ h1{
     color: #fdf0d5;
     padding: 1rem;
     margin: 1rem;
+    font-size: large;
     transition: 0.2s;
 }
 #reset-btn:hover{
